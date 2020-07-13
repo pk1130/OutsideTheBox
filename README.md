@@ -11,6 +11,6 @@ The final model looked like this:
 ### Contributions
 
 - Implemented entire code for successful Over-Sand-Vehicle manoeuvring mechanism and black box detection
-- Made critical design choices about placement of wheels, ultrasonic and infrared sensors, and wheel size and axles
-- Created wiring schematics for the *Arduino Romeo*, used to interact with OSV and sensors
+- Made critical design choices regarding placement of wheels, ultrasonic and infrared sensors, and wheel size and axles
+- Created wiring schematics for the ***Arduino Romeo***, used to interact with OSV and sensors
 
