@@ -5,8 +5,8 @@
 This project involved building an Over-Sand-Vehicle from scratch using 3D printed/purchased materials. The aim of the project was to build a working model in under $100 that sucessfully navigated the sand-pit to search for the infrared-emitting black box and transmit its location to the RF system.
 
 The final model looked like this:
-
-    ![Alt text](assets/OSV.PNG)
+    
+![Alt Text](assets/OSV.PNG)
 
 ### Contributions
 
